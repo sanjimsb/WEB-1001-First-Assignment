@@ -69,3 +69,11 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+.introduction-wrapper {
+    padding: 2rem 0;
+}
+
+.introduction-wrapper .introduction-wrapper_inner .text-wrapper{
+    padding: 1rem 0;
+}
