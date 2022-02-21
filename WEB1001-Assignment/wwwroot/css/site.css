@@ -24,10 +24,14 @@ a {
   border-color: #1861ac;
 }
 
+.navbar{
+    margin-bottom:0!important;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 @media (min-width: 768px) {
   html {
@@ -76,4 +80,20 @@ body {
 
 .introduction-wrapper .introduction-wrapper_inner .text-wrapper{
     padding: 1rem 0;
+}
+
+.banner{
+    background: rgb(182, 182, 255);
+    padding: 2rem;
+}
+.banner h1 {
+    margin:0;
+}
+
+.privacy-main {
+    padding: 2rem 0;
+}
+
+.frontpage-main {
+    padding: 2rem 0;
 }
